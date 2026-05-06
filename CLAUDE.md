@@ -2,6 +2,8 @@
 
 A 30-agent AI marketing system that runs your marketing across Meta Ads, SEO, and Social Media with a shared knowledge brain.
 
+Built as a Claude Code plugin. Install in two minutes.
+
 ## Architecture
 
 - **3 channels**: Meta Ads (8 agents), SEO (8 agents), Social Media (8 agents)
