@@ -228,4 +228,4 @@ MIT — use it however you want.
 
 ---
 
-Built by [Drummond Holdings](https://github.com/hugo-drummond). Star the repo if it's useful.
+Built by [Hugo Drummond and Mountain Lab](https://github.com/hugo-drummond). Star the repo if it's useful.
